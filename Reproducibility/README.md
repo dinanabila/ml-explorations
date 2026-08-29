@@ -1,0 +1,1 @@
+Penggunaan parameter random_state pada train_test_split dapat mempertahankan reproducibility. 
